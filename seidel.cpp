@@ -1,3 +1,4 @@
+//programa del metodo de Gauss-Seidel version 1.0
 #include "seidel.h"
 #include "ui_seidel.h"
 #include "math.h"
@@ -146,3 +147,4 @@ void seidel::Limpiar(){//se define la funcion Limpiar
     ui->calcular->setEnabled(false);//se deshabilita el boton calcular
                                     //disable the calculate button
 }
+//Elaborado por Jose Alfredo Mendoza Mota, Gibran Omar Estrada Gomez, Jesus Antonio Herrera Diaz y Ana Karen Razo Francisco
